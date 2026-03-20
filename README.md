@@ -1,11 +1,40 @@
-In deze applicatie is gebruik gemaakt van
-- Laravel
-- Spatie\LaravelData\Data
+\## Vereisten
 
-voor het opstarten zet de file in js xampp htdocs file (of andere hosting zoals docker container)
-run: - composer install
-     - php artisan serve
+\* PHP 8.x
 
-gebruik gemaakt van:
- Copilot
- Claude code
+\* Composer
+
+\* XAMPP / Docker / Laravel Herd
+
+
+
+\## Installatie
+
+
+
+1\. Clone de repository
+
+2\. `composer install`
+
+3\. Kopieer `.env.example` naar `.env` en vul de waarden in:
+
+&#x20;  - `EVENT\_API\_BASE\_URL`
+
+&#x20;  - `EVENT\_API\_ACCESS\_KEY`
+
+&#x20;  - `EVENT\_API\_SECRET\_KEY`
+
+4\. `php artisan key:generate`
+
+5\. `php artisan serve`
+
+
+
+\## Gebouwd met
+
+\* Laravel
+
+\* Spatie Laravel Data
+
+\* Copilot / Claude
+
