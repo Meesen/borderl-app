@@ -1,7 +1,7 @@
 ## Vereisten
 * PHP 8.x
 * Composer
-* XAMPP / Docker / Laravel Herd
+* XAMPP / Docker / Laravel
 
 ## Installatie
 

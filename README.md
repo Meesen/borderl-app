@@ -4,7 +4,7 @@
 
 \* Composer
 
-\* XAMPP / Docker / Laravel Herd
+\* XAMPP / Docker / Laravel
 
 
 
